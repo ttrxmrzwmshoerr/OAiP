@@ -1,7 +1,6 @@
-from games_project_roshchina.VD_games.cli import welcome_user
+from VD_games import greet
 
 def main():
-    welcome_user()
+	greet()
 
-if __name__ == '__main__':
-    main()
+main()

@@ -23,3 +23,7 @@ dev = [
 [project.scripts]
 VD-games = "games_project_roshchina.VD_games.scripts.VD_main:main"
 VD-even = "games_project_roshchina.VD_games.scripts.VD_even:main"
+VD-calc = "games_project_roshchina.VD_games.scripts.VD_calc:main"
+VD-gcd = "games_project_roshchina.VD_games.scripts.VD_gcd:main"
+VD-prime = "games_project_roshchina.VD_games.scripts.VD_prime:main"
+VD-progression = "games_project_roshchina.VD_games.scripts.VD_progression:main"
