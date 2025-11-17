@@ -1,2 +1,4 @@
-def main():
-    print("Hello from VD_games!")
+from games_project_roshchina.VD_games.cli import welcome_user
+
+if __name__ == '__main__':
+    welcome_user()
